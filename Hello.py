@@ -6,7 +6,7 @@ import requests,os
 #nothing
 def download_model():
     if not os.path.exists("model.h5"):
-        response=requests.get("https://akankshacdn.blob.core.windows.net/yadavcdn/model.h5")
+        response=requests.get("https://akankshayadav.blob.core.windows.net/mycdn/model.h5")
         with open("model.h5","wb") as file:
             file.write(response.content)
 
