@@ -3,7 +3,7 @@
 This repository contains a real and AI generated image classifier based on the VGG16 architecture.\
  This project was completed as part of the Even Semester Project by the Coding Club at IIT Guwahati under the \
 mentorship of Mr. Prabhanjan Jadhav and Sahil Danayk.\
-you can see it in action at https://akankshayadav.streamlit.app/
+you can see it in action at https://real-and-ai-generated-image-classifiergit-cpagcspso9yxjrzfhj2r.streamlit.app/
 
 ## Getting Started
 
